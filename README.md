@@ -81,6 +81,3 @@ Here are some of the available API endpoints:
 
 Thank you for checking out this project! If you have any questions or need further assistance, feel free to ask! 🚀
 email: ernestorod27@gmail.com
-```
-
-Feel free to update sections like the project name, API endpoints, and any other specifics related to your application! If you need more help or details, just let me know!
